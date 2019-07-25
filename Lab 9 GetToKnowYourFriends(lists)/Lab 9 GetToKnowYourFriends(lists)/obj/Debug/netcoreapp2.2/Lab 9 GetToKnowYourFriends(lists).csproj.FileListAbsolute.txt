@@ -1,0 +1,11 @@
+C:\Users\JoshB\OneDrive\Lab 9 GetToKnowYourFriends(lists)\Lab 9 GetToKnowYourFriends(lists)\bin\Debug\netcoreapp2.2\Lab 9 GetToKnowYourFriends(lists).deps.json
+C:\Users\JoshB\OneDrive\Lab 9 GetToKnowYourFriends(lists)\Lab 9 GetToKnowYourFriends(lists)\bin\Debug\netcoreapp2.2\Lab 9 GetToKnowYourFriends(lists).runtimeconfig.json
+C:\Users\JoshB\OneDrive\Lab 9 GetToKnowYourFriends(lists)\Lab 9 GetToKnowYourFriends(lists)\bin\Debug\netcoreapp2.2\Lab 9 GetToKnowYourFriends(lists).runtimeconfig.dev.json
+C:\Users\JoshB\OneDrive\Lab 9 GetToKnowYourFriends(lists)\Lab 9 GetToKnowYourFriends(lists)\bin\Debug\netcoreapp2.2\Lab 9 GetToKnowYourFriends(lists).dll
+C:\Users\JoshB\OneDrive\Lab 9 GetToKnowYourFriends(lists)\Lab 9 GetToKnowYourFriends(lists)\bin\Debug\netcoreapp2.2\Lab 9 GetToKnowYourFriends(lists).pdb
+C:\Users\JoshB\OneDrive\Lab 9 GetToKnowYourFriends(lists)\Lab 9 GetToKnowYourFriends(lists)\obj\Debug\netcoreapp2.2\Lab 9 GetToKnowYourFriends(lists).csprojAssemblyReference.cache
+C:\Users\JoshB\OneDrive\Lab 9 GetToKnowYourFriends(lists)\Lab 9 GetToKnowYourFriends(lists)\obj\Debug\netcoreapp2.2\Lab 9 GetToKnowYourFriends(lists).csproj.CoreCompileInputs.cache
+C:\Users\JoshB\OneDrive\Lab 9 GetToKnowYourFriends(lists)\Lab 9 GetToKnowYourFriends(lists)\obj\Debug\netcoreapp2.2\Lab 9 GetToKnowYourFriends(lists).AssemblyInfoInputs.cache
+C:\Users\JoshB\OneDrive\Lab 9 GetToKnowYourFriends(lists)\Lab 9 GetToKnowYourFriends(lists)\obj\Debug\netcoreapp2.2\Lab 9 GetToKnowYourFriends(lists).AssemblyInfo.cs
+C:\Users\JoshB\OneDrive\Lab 9 GetToKnowYourFriends(lists)\Lab 9 GetToKnowYourFriends(lists)\obj\Debug\netcoreapp2.2\Lab 9 GetToKnowYourFriends(lists).dll
+C:\Users\JoshB\OneDrive\Lab 9 GetToKnowYourFriends(lists)\Lab 9 GetToKnowYourFriends(lists)\obj\Debug\netcoreapp2.2\Lab 9 GetToKnowYourFriends(lists).pdb
